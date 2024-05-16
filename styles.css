@@ -5,10 +5,10 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
+    background-color: #08cf4e;
     color: #333;
 }
-
+/*body bg cl: #f9f9f9*/
 header {
     background-color: #007bff;
     color: #fff;
